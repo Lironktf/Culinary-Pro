@@ -28,15 +28,6 @@ namespace RecipeManager
         {
             //init a new dictionary
             userDict = new Dictionary<string, string>();
-
-            var url = Environment.GetEnvironmentVariable("https://sdzcvdbmlygslkokgweq.supabase.co");
-            var key = Environment.GetEnvironmentVariable("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNkemN2ZGJtbHlnc2xrb2tnd2VxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDI5Mzc1ODAsImV4cCI6MjA1ODUxMzU4MH0.DnqsOEH-pqXyI2PrG-oKQyeDUMixKj0fWQ0ruUQtehs");
-            var options = new Supabase.SupabaseOptions
-            {
-                AutoConnectRealtime = true
-            };
-            var supabase = new Supabase.Client(url, key, options);
-            supabase.InitializeAsync();
         }
 
         // Pre: None

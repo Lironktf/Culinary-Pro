@@ -996,11 +996,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danik\\OneDrive\\Documents\\Grade 12 C.S\\Assignments\\PASS3\\RecipeManager (current) - Final\\RecipeManager\\RecipeManager.csproj",
+      "projectUniqueName": "C:\\Users\\danik\\OneDrive\\Documents\\Grade 12 C.S\\Assignments\\PASS3\\RecipeManager (current) - Final - Copy\\RecipeManager\\RecipeManager.csproj",
       "projectName": "RecipeManager",
-      "projectPath": "C:\\Users\\danik\\OneDrive\\Documents\\Grade 12 C.S\\Assignments\\PASS3\\RecipeManager (current) - Final\\RecipeManager\\RecipeManager.csproj",
+      "projectPath": "C:\\Users\\danik\\OneDrive\\Documents\\Grade 12 C.S\\Assignments\\PASS3\\RecipeManager (current) - Final - Copy\\RecipeManager\\RecipeManager.csproj",
       "packagesPath": "C:\\Users\\danik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danik\\OneDrive\\Documents\\Grade 12 C.S\\Assignments\\PASS3\\RecipeManager (current) - Final\\RecipeManager\\obj\\",
+      "outputPath": "C:\\Users\\danik\\OneDrive\\Documents\\Grade 12 C.S\\Assignments\\PASS3\\RecipeManager (current) - Final - Copy\\RecipeManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
