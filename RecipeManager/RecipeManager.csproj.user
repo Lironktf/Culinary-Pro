@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormsAndControls\FitnessGoalsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormsAndControls\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormsAndControls\MainMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormsAndControls\RecipeCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FormsAndControls\RecipesDisplayForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormsAndControls\RecipeInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormsAndControls\SaveRecipeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormsAndControls\SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormsAndControls\MealPlanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormsAndControls\MealPlanSelectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormsAndControls\SearchCriterionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormsAndControls\ManualInputForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormsAndControls\SavedListsViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormsAndControls\MinimalRecipeCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="FormsAndControls\FitnessGoalsForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="FormsAndControls\LoginForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="FormsAndControls\MainMenuForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
